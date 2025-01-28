@@ -6,5 +6,7 @@ public class UnitTest1
     public void UnitTestA()
     {
         Assert.False(!true);
+        
+        Console.Out.WriteLine("Write some random stuff");
     }
 }
