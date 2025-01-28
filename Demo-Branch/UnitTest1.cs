@@ -3,7 +3,7 @@ namespace Demo_Branch;
 public class UnitTest1
 {
     [Fact]
-    public void FalseisFalse()
+    public void UnitTestA()
     {
         Assert.False(!true);
     }
