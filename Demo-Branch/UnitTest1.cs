@@ -6,5 +6,6 @@ public class UnitTest1
     public void FalseisFalse()
     {
         Assert.False(!true);
+        Assert.False(!false);
     }
 }
