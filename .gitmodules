@@ -1,0 +1,9 @@
+[submodule "RefactoringActivity"]
+	path = RefactoringActivity
+	url = https://github.com/jonhumphreys/RefactoringActivity.git
+[submodule "DebuggerExample"]
+	path = DebuggerExample
+	url = https://github.com/jonhumphreys/DebuggerExample.git
+[submodule "Geodude"]
+	path = Geodude
+	url = https://github.com/JEscobar04/Geodude.git
